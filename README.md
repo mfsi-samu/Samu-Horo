@@ -17,5 +17,5 @@ A Full Stack Web debeloper 🎯 from India.
 ### 🤝🏻Connect with me
 <p float="left">
   <a href="https://www.linkedin.com/in/samu-horo">LinkedIn</a> |
-  <a href="https://www.instagram.com/horosamu">Insta</a>
+  <a href="https://www.instagram.com/horosamu">Instagram</a>
 </p>
